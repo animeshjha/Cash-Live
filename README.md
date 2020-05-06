@@ -1,9 +1,5 @@
-# Cash-Live
+# Pocket Dice Game
 
-Cash Live Assignment
-
-Candidate Name: Animesh Jha
-Submission Date: 24th April 2020
 IDE: Visual Studio 2019, Community Edition, Unity Version: 2019.2.14f
 
 Gameplay Considerations:
@@ -28,5 +24,3 @@ Debug Notes/Considerations:
 •	Whenever debug is on, Dice and Debug panel should sync on color to make the user realize over-ride of value
 •	Some Debug statements are left intentionally to show flow of gameplay.
 
-Game Over Condition:
-When someone loses the game its not clear where does the money go, hence it is given to the house.

@@ -1,6 +1,6 @@
 # Pocket Dice Game
 
-# WebGL playable Link: http://ajfolio.orgfree.com/pocketdice/
+## WebGL playable Link: http://ajfolio.orgfree.com/pocketdice/
 
 ## IDE: Visual Studio 2019, Community Edition, Unity Version: 2019.2.14f
 
